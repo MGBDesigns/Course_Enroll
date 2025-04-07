@@ -1,0 +1,178 @@
+body {
+    background-color: #E9F5FB !important;
+	font-family: 'Dosis', 'Ubuntu', sans-serif !important;
+}
+
+h1 {
+    color: #0E2841;
+    font-family: 'Dosis', 'Ubuntu', sans-serif !important;
+	font-size: 32px !important;
+}
+
+p {
+    font-family: 'Dosis', 'Ubuntu', sans-serif !important;
+	font-size: 16px !important;
+}
+
+.jumbotron {
+    padding: 30px 15px !important; 
+	color: white !important; 
+    background-color: #156082 !important; 
+    border-radius: 6px !important; 
+	font-size: 40px !important;
+}
+
+.btn-custom {
+    background-color: #156082 !important; 
+    color: white !important; 
+    border-radius: 8px !important; 
+	border: none !important; 
+	font-size: 16px !important;
+}
+
+.btn-custom:hover {
+    background-color: #06111C !important; 
+}
+
+.btn-primary {
+    background-color: #156082 !important; 
+    color: white !important; 
+    border-radius: 8px !important; 
+	border: none !important; 
+	font-size: 16px !important;
+}
+
+.btn-primary:hover {
+    background-color: #06111C !important; 
+}
+
+.btn-danger {
+    background-color: #C00000 !important;
+    border-color: #C00000 !important;
+	font-size: 16px !important;
+}
+
+.btn-danger:hover {
+    background-color: #9A0000 !important;
+    border-color: #9A0000 !important;
+}
+
+.btn-warning {
+    background-color: #E6B800 !important;
+    border-color: #E6B800 !important;
+	font-size: 16px !important;
+}
+
+.btn-warning:hover {
+    background-color: #CC9A00 !important;
+    border-color: #CC9A00 !important;
+}
+
+.btn-success {
+    background-color: #00994D !important;
+    border-color: #00994D !important;
+	font-size: 16px !important;
+}
+
+.btn-success:hover {
+    background-color: #007A3D !important;
+    border-color: #007A3D !important;
+}
+
+.navbar {
+    background-color: #BEE3F4 !important; 
+    border-color: #156082 !important; 
+}
+.navbar-nav > li > a {
+    color: #333 !important; 
+}
+
+table.table-bordered {
+    border: 2px solid #ddd !important; 
+	width: 100%;
+	font-size: 16px !important;
+	background-color: #FFFFFF !important;
+}
+
+table.table-bordered td {
+    padding: 15px !important; 
+	text-align: left !important; 
+	border: 1px solid #ddd !important; 
+	font-size: 16px !important;
+    background-color: #FFFFFF !important;
+}
+
+table.table-bordered th {
+    font-weight: bold;
+	font-size: 18px !important;	
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+	font-size: 16px !important;	
+}
+.text-center {
+    text-align: center !important; 
+}
+
+.centered-form {
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto; 
+    padding: 20px; 
+    background-color: #E9F5FB;
+	font-size: 16px !important;	
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px; 
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+form {
+    width: 75%; 
+    margin: 0 auto; 
+    text-align: left;
+	font-size: 16px !important;	
+}
+
+form input, form button {
+    width: 100%; 
+    margin-bottom: 10px; 
+}
+
+form .btn {
+    width: auto;
+}
+
+table.custom-table {
+    border: 2px solid #ddd !important; 
+	width: 65%;
+	margin: 0 auto;
+	table-layout: auto; 
+	font-size: 16px !important;
+	background-color: #FFFFFF !important;
+}
+
+table.custom-table td {
+    padding: 15px !important; 
+	text-align: left !important; 
+	border: 1px solid #ddd !important; 
+	font-size: 16px !important;
+    background-color: #FFFFFF !important;
+}
+
+table.custom-table th {
+    font-weight: bold;
+	font-size: 18px !important;	
+}
